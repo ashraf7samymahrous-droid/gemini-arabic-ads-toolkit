@@ -1,0 +1,13 @@
+{
+  "name": "gemini-arabic-ads-toolkit",
+  "version": "1.0.0",
+  "description": "مكتبة JavaScript لتوليد إعلانات عربية (فصحى ودارجة جزائرية) عبر Gemini API",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": ["gemini", "arabic", "ads", "ai", "marketing", "algeria"],
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashraf7samymahrous-droid/gemini-arabic-ads-toolkit"
+  }
+}
